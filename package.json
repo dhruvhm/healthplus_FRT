@@ -1,0 +1,15 @@
+{
+  "name": "Health Plus FRT",
+  "version": "1.0.0",
+  "description": "Healthcare assistant",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "Dhruv Mankad",
+  "license": "MIT",
+  "dependencies": {
+    // Add your dependencies here
+  }
+}
